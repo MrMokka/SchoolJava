@@ -1,0 +1,40 @@
+
+{
+  "meters":[
+    {
+      "type":"clock",
+      "interval":"1.0E - 4s",
+      "regNum":"K3000",
+      "location":"R101H6",
+      "inOrder":true
+    },
+    {
+      "type":"clock",
+      "interval":"0.01s",
+      "regNum":"K3001",
+      "location":"R101H7",
+      "inOrder":true
+    },
+    {
+      "type":"weight",
+      "interval":"0.01 - 10g",
+      "regNum":"V1000",
+      "location":"R101H1",
+      "inOrder":true
+    },
+    {
+      "type":"thermometer",
+      "interval":"1.0 - 200C",
+      "regNum":"T2001",
+      "location":"R101H5",
+      "inOrder":true
+    },
+    {
+      "type":"thermometer",
+      "interval":"10 - 2000C",
+      "regNum":"T2002",
+      "location":"R101H15",
+      "inOrder":false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "languages": {
+    "norwegian": {
+      "qCountry": "Hvilket land er dette",
+      "qCapital": "Hva er hovedstaden i dette landet",
+      "correct": "Riktig",
+      "wrong": "Feil",
+      "correctAnswer": "Riktig svar",
+      "points": "Poeng",
+      "questionCount": "Antall spørsmål",
+      "answer": "Svar",
+      "next": "Neste",
+      "fontSize": "Font størrelse",
+      "fontType": "Font type",
+      "findCapital": "Finn hovedsteder",
+      "findCountries": "Finn land",
+      "reuseQuestions": "Gjenbruke spørsmål",
+      "startQuiz": "Start Quiz",
+      "gameOver": "Spill avsluttet",
+      "youGot": "Du fikk",
+      "typeName": "Skriv navn for highscore",
+      "restartQuiz": "Restart Quiz",
+      "langType":"Språk"
+    },
+    "english": {
+      "qCountry": "What country is this",
+      "qCapital": "Name the capital for this country",
+      "correct": "Correct",
+      "wrong": "Wrong",
+      "correctAnswer": "Correct answer",
+      "points": "Points",
+      "questionCount": "Question count",
+      "answer": "Answer",
+      "next": "Next",
+      "fontSize": "Font size",
+      "fontType": "Font type",
+      "findCapital": "Find capitals",
+      "findCountries": "Find countries",
+      "reuseQuestions": "Reuse questions",
+      "startQuiz": "Start Quiz",
+      "gameOver": "Game over",
+      "youGot": "You got",
+      "typeName": "Write name for highsciore",
+      "restartQuiz": "Restart Quiz",
+      "langType":"Language"
+    }
+  }
+}

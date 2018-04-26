@@ -1,0 +1,67 @@
+
+{
+  "questions":[
+    {
+      "country":"norge",
+      "flag":"Arbeidskrav2/flags-normal/no.png",
+      "capital":"oslo"
+    },
+    {
+      "country":"belgia",
+      "flag":"Arbeidskrav2/flags-normal/be.png",
+      "capital":"brussel"
+    },
+    {
+      "country":"brasil",
+      "flag":"Arbeidskrav2/flags-normal/br.png",
+      "capital":"brasilia"
+    },
+    {
+      "country":"canada",
+      "flag":"Arbeidskrav2/flags-normal/ca.png",
+      "capital":"ottawa"
+    },
+    {
+      "country":"kina",
+      "flag":"Arbeidskrav2/flags-normal/cn.png",
+      "capital":"beijing"
+    },
+    {
+      "country":"frankrike",
+      "flag":"Arbeidskrav2/flags-normal/fr.png",
+      "capital":"paris"
+    },
+    {
+      "country":"island",
+      "flag":"Arbeidskrav2/flags-normal/is.png",
+      "capital":"reykjavik"
+    },
+    {
+      "country":"mexico",
+      "flag":"Arbeidskrav2/flags-normal/mx.png",
+      "capital":"mexico"
+    },
+    {
+      "country":"niger",
+      "flag":"Arbeidskrav2/flags-normal/ne.png",
+      "capital":"niamey"
+    },
+    {
+      "country":"sverige",
+      "flag":"Arbeidskrav2/flags-normal/se.png",
+      "capital":"stockholm"
+    },
+    {
+      "country":"tunisia",
+      "flag":"Arbeidskrav2/flags-normal/tn.png",
+      "capital":"tunis"
+    },
+    {
+      "country":"zimbabwe",
+      "flag":"Arbeidskrav2/flags-normal/zw.png",
+      "capital":"harare"
+    }
+  ]
+}
+
+
